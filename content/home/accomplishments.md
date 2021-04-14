@@ -58,25 +58,5 @@ item:
   organization_url: https://www.shanghaitech.edu.cn/
   title: 'First-Class Scholarship for Academic Excellence'
   url: ""
-
-- certificate_url: 
-  # certificate_url: https://www.datacamp.com
-  date_end: ""
-  date_start: "2020-11-01"
-  description: "Top 5%"
-  organization: ShanghaiTech University
-  organization_url: https://www.shanghaitech.edu.cn/
-  title: 'Outstanding Student'
-  url: ""
-
-- certificate_url: 
-  # certificate_url: https://www.datacamp.com
-  date_end: ""
-  date_start: "2019-10-01"
-  description: "2nd Prize"
-  organization: Shanghai Education Commission
-  organization_url:
-  title: 'Knowledge Bank Cup College Social Practice Competition'
-  url: ""
 ---
 
