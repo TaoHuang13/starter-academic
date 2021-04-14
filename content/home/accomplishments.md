@@ -24,7 +24,7 @@ item:
   date_end: ""
   date_start: "2020-12-01"
   description: "2nd Prize"
-  organization: CUMCM
+  organization: China Society for Industrial and Applied Mathematics
   organization_url: http://www.mcm.edu.cn/
   title: 'China Undergraduate Mathematical Contest in Modeling'
   url: ""
@@ -32,11 +32,11 @@ item:
 - certificate_url: 
   # certificate_url: 
   date_end: ""
-  date_start: "2020-11-01"
-  description: "3st Prize"
-  organization: Zhejiang University
-  organization_url: http://www.cms.org.cn/
-  title: '12th National College Student Mathematics Competition'
+  date_start: "2021-2-01"
+  description: "Top 20%"
+  organization: Kaggle
+  organization_url: https://www.kaggle.com/
+  title: 'Data Science Competition'
   url: ""
 
 #- certificate_url: 
