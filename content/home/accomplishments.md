@@ -22,11 +22,11 @@ item:
 - certificate_url: 
   # certificate_url: 
   date_end: ""
-  date_start: "2021-03-01"
-  description: "1st Prize"
-  organization: Zhejiang University
-  organization_url: http://www.zju.edu.cn/
-  title: '17th Challenge Cup Extracurricular Academic Works Competition'
+  date_start: "2020-12-01"
+  description: "2nd Prize"
+  organization: CUMCM
+  organization_url: http://www.mcm.edu.cn/
+  title: 'China Undergraduate Mathematical Contest in Modeling'
   url: ""
 
 - certificate_url: 
@@ -59,5 +59,13 @@ item:
   title: 'ASABE Agricultural Robot Competition Simulation Contest'
   url: ""
 
-
+- certificate_url: 
+  # certificate_url: https://www.datacamp.com
+  date_end: "2018-08-26"
+  date_start: "2019-07-01"
+  description: "Top 3%"
+  organization: Zhejiang University
+  organization_url: http://www.zju.edu.cn/
+  title: 'First-Class Scholarship for Academic Excellence'
+  url: ""
 ---
