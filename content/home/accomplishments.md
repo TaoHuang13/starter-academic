@@ -72,11 +72,11 @@ item:
 - certificate_url: 
   # certificate_url: https://www.datacamp.com
   date_end: ""
-  date_start: "2029-10-01"
+  date_start: "2019-10-01"
   description: "2nd Prize"
-  organization: Shanghai Education Commission & The Communist Youth League of Shanghai
+  organization: Shanghai Education Commission
   organization_url:
-  title: '“Knowledge Bank Cup“ College Students’ Social Practice Competition'
+  title: 'Knowledge Bank Cup College Students’ Social Practice Competition'
   url: ""
 ---
 
