@@ -32,7 +32,7 @@ item:
 - certificate_url: 
   # certificate_url: 
   date_end: ""
-  date_start: "2021-2-01"
+  date_start: "2021-02-01"
   description: "Top 20%"
   organization: Kaggle
   organization_url: https://www.kaggle.com/
