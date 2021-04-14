@@ -23,29 +23,45 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url:
   date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  date_start: "2020-12-10"
+  description: "2nd Prize"
+  organization: China Society for Industrial and Applied Mathematics
+  organization_url: http://www.mcm.edu.cn/
+  title: China Undergraduate Mathematical Contest in Modeling
   url: ""
-- certificate_url: https://www.edx.org
+- certificate_url:
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
+  date_start: "2021-2-25"
+  description: "Top 20%"
+  organization: Kaggle
+  organization_url: https://www.kaggle.com/
+  title: Data Science Competition
+  url: ""
+- certificate_url:
+  date_end: ""
+  date_start: "2020-11-25"
+  description: "Top 2%"
+  organization: ShanghaiTech University
+  organization_url: https://www.shanghaitech.edu.cn/
+  title: Fisrt-Class Special Scholarship
+  url: ""
+- certificate_url:
+  date_end: ""
+  date_start: "2020-11-25"
+  description: "Top 5%"
+  organization: ShanghaiTech University
+  organization_url: https://www.shanghaitech.edu.cn/
+  title: Outstanding Student of ShanghaiTech University
+  url: ""
+- certificate_url:
+  date_end: ""
+  date_start: "2019-10-25"
+  description: "2nd Prize"
+  organization: The Shanghai Municipal Council of the Communist Youth League
+  organization_url: http://www.shyouth.net/
+  title: “Knowledge Bank Cup” College Students’ Social Practice Competition
   url: ""
 
 design:
