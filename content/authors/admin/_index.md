@@ -1,17 +1,19 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Tao Huang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Junior Undergraduate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: ShanghaiTech University
+  url: https://www.shanghaitech.edu.cn/
+- name: Shool of Information Science and Technology
+  url: https://sist.shanghaitech.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
