@@ -76,7 +76,7 @@ item:
   description: "2nd Prize"
   organization: Shanghai Education Commission
   organization_url:
-  title: 'Knowledge Bank Cup College Students’ Social Practice Competition'
+  title: 'Knowledge Bank Cup College Social Practice Competition'
   url: ""
 ---
 
