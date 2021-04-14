@@ -22,7 +22,7 @@ item:
 - certificate_url: 
   # certificate_url: 
   date_end: ""
-  date_start: "2021-02-02"
+  date_start: "2020-12-02"
   description: "2nd Prize"
   organization: China Society for Industrial and Applied Mathematics
   organization_url: http://www.mcm.edu.cn/
