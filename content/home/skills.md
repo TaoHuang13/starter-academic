@@ -1,45 +1,71 @@
 ---
-# An instance of the Featurette widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: featurette
-
-# This file represents a page section.
+widget: accomplishments
 headless: true
+weight: 50
 
-# Order that this section appears on the page.
-weight: 200
-
-title: Skills
+# Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+# title: 'Accomplish&shy;ments'
+title: 'Accomplishment'
 subtitle:
 
-# Showcase personal skills or business features.
-# - Add/remove as many `feature` blocks below as you like.
-# - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+# Date format
+#   Refer to https://wowchemy.com/docs/customization/#date-format
+date_format: Jan 2006
 
-# Uncomment to use emoji icons.
-#- icon: ":smile:"
-#  icon_pack: "emoji"
-#  name: "Emojiness"
-#  description: "100%"  
+# Accomplishments.
+#   Add/remove as many `item` blocks below as you like.
+#   `title`, `organization`, and `date_start` are the required parameters.
+#   Leave other parameters empty if not required.
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
-# Uncomment to use custom SVG icons.
-# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
-# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-#- icon: "your-custom-icon-name"
-#  icon_pack: "custom"
-#  name: "Surfing"
-#  description: "90%"
+item:
+- certificate_url: 
+  # certificate_url: 
+  date_end: ""
+  date_start: "2021-03-01"
+  description: "1st Prize"
+  organization: Zhejiang University
+  organization_url: http://www.zju.edu.cn/
+  title: '17th Challenge Cup Extracurricular Academic Works Competition'
+  url: ""
+
+- certificate_url: 
+  # certificate_url: 
+  date_end: ""
+  date_start: "2020-11-01"
+  description: "3st Prize"
+  organization: Zhejiang University
+  organization_url: http://www.cms.org.cn/
+  title: '12th National College Student Mathematics Competition'
+  url: ""
+
+#- certificate_url: 
+#  date_end: ""
+#  date_start: "2020-02-18"
+#  description: "Honorable Mentioned"
+#  organization: COMAP & MCM/ICM
+#  organization_url: #https://www.comap.com/undergraduate/contests/
+#  title: Mathematical Contest of Modeling
+#  url: ""
+
+- certificate_url:
+  # certificate_url: https://www.edx.org
+  date_end: ""
+  date_start: "2019-03-01"
+  description: 1st Place (Rank 1)
+  # mainly responsible for the programming(tracking and execution mechanism) and mechanism design
+  organization: zhejiang University
+  organization_url: http://www.zju.edu.cn/
+  title: 'ASABE Agricultural Robot Competition Simulation Contest'
+  url: ""
+
+- certificate_url: 
+  # certificate_url: https://www.datacamp.com
+  date_end: "2018-08-26"
+  date_start: "2019-07-01"
+  description: "Top 3%"
+  organization: Zhejiang University
+  organization_url: http://www.zju.edu.cn/
+  title: 'First-Class Scholarship for Academic Excellence'
+  url: ""
 ---
