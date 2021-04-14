@@ -40,7 +40,7 @@ experience:
     location: China
     date_start: '2021-03-01'
     date_end: ''
-    description: Introduce papers with high quality in reinforcement learning on RLChina's official account.
+    description: Introduce papers with high quality in reinforcement learning on official account of RLChina.
 
   - title: Minister of Innovation Department
     company: The College Communist Youth League
