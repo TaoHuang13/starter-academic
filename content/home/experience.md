@@ -22,29 +22,44 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Intern
+    company: Data Science and Artificial Intelligence Labour 
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    location: Shanghai, China
+    date_start: '2021-04-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
+        Launch research work :
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Sparse Optimization 
+        * Matrix Computation
         
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+  - title: Regular Contributor to a Academic Column of RLChina 
+    company: RLChina
+    company_url: 'https://rlchina.org/'
+    location: China
+    date_start: '2021-03-01'
+    date_end: ''
+    description: Introduce papers with high quality in reinforcement learning on RLChina's official account.
 
-design:
-  columns: '2'
+  - title: Minister of Innovation Department
+    company: The College Communist Youth League
+    company_url: ''
+    location: Shanghai, China
+    date_start: '2019-11-01'
+    date_end: ''
+    description: 
+
+  - title: Research Intern
+    company: IID 
+    company_url: ''
+    location: Shanghai, China
+    date_start: '2020-01-01'
+    date_end: '2021-3-01'
+    description: |2-
+        Launch research work on :
+        
+        * Sparse Optimization 
+        * Matrix Computation
+
 ---
