@@ -22,21 +22,21 @@ item:
 - certificate_url: 
   # certificate_url: 
   date_end: ""
-  date_start: "2020-12-01"
-  description: "2nd Prize"
-  organization: CUMCM
-  organization_url: http://www.mcm.edu.cn/
-  title: 'China Undergraduate Mathematical Contest in Modeling'
+  date_start: "2021-03-01"
+  description: "1st Prize"
+  organization: Zhejiang University
+  organization_url: http://www.zju.edu.cn/
+  title: '17th Challenge Cup Extracurricular Academic Works Competition'
   url: ""
 
 - certificate_url: 
   # certificate_url: 
   date_end: ""
-  date_start: "2021-2-01"
-  description: "Top 20%"
-  organization: Kaggle
-  organization_url: https://www.kaggle.com/
-  title: 'Data Science Competition'
+  date_start: "2020-11-01"
+  description: "3st Prize"
+  organization: Zhejiang University
+  organization_url: http://www.cms.org.cn/
+  title: '12th National College Student Mathematics Competition'
   url: ""
 
 #- certificate_url: 
@@ -47,5 +47,17 @@ item:
 #  organization_url: #https://www.comap.com/undergraduate/contests/
 #  title: Mathematical Contest of Modeling
 #  url: ""
+
+- certificate_url:
+  # certificate_url: https://www.edx.org
+  date_end: ""
+  date_start: "2019-03-01"
+  description: 1st Place (Rank 1)
+  # mainly responsible for the programming(tracking and execution mechanism) and mechanism design
+  organization: zhejiang University
+  organization_url: http://www.zju.edu.cn/
+  title: 'ASABE Agricultural Robot Competition Simulation Contest'
+  url: ""
+
 
 ---
