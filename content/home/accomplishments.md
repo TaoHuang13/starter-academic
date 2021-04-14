@@ -22,7 +22,7 @@ item:
 - certificate_url: 
   # certificate_url: 
   date_end: ""
-  date_start: "2020-12-01"
+  date_start: "2021-2-2"
   description: "2nd Prize"
   organization: China Society for Industrial and Applied Mathematics
   organization_url: http://www.mcm.edu.cn/
@@ -51,21 +51,32 @@ item:
 - certificate_url:
   # certificate_url: https://www.edx.org
   date_end: ""
-  date_start: "2019-03-01"
-  description: 1st Place (Rank 1)
+  date_start: "2020-11-02"
+  description: Top 2%
   # mainly responsible for the programming(tracking and execution mechanism) and mechanism design
-  organization: zhejiang University
-  organization_url: http://www.zju.edu.cn/
-  title: 'ASABE Agricultural Robot Competition Simulation Contest'
+  organization: ShanghaiTech University
+  organization_url: https://www.shanghaitech.edu.cn/
+  title: 'First-Class Scholarship for Academic Excellence'
   url: ""
 
 - certificate_url: 
   # certificate_url: https://www.datacamp.com
-  date_end: "2018-08-26"
-  date_start: "2019-07-01"
-  description: "Top 3%"
-  organization: Zhejiang University
-  organization_url: http://www.zju.edu.cn/
-  title: 'First-Class Scholarship for Academic Excellence'
+  date_end: ""
+  date_start: "2020-11-01"
+  description: "Top 5%"
+  organization: ShanghaiTech University
+  organization_url: https://www.shanghaitech.edu.cn/
+  title: 'Outstanding Student'
+  url: ""
+
+- certificate_url: 
+  # certificate_url: https://www.datacamp.com
+  date_end: ""
+  date_start: "2029-10-01"
+  description: "2nd Prize"
+  organization: Shanghai Education Commission & The Communist Youth League of Shanghai
+  organization_url:
+  title: '“Knowledge Bank Cup“ College Students’ Social Practice Competition'
   url: ""
 ---
+
